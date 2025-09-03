@@ -45,11 +45,11 @@ mv [Tên File Muốn Đổi] [Tên File Mới]
 
 Máy 01:XRK_M01_S9pX
 
-      ./xmrigDaemon --cc-disabled --algo=cn-pico --coin=XRK --url=sg.fastpool.xyz:10092 --user=SEKReUZQwmqcffLCFRr9hu7csP7PjCJfnh1x1uxjx3uvAMSBj6G9bvP1tqTQftMBwYaJErjc8yfNmBLBTKL9rM1Y3k7SAwTUZUd.XRK_M01_S9pX --pass=x --rig-id=XRK_M01_S9pX --cpu-max-cpu-usage=80
+      ./xmrigDaemon --cc-disabled --algo=cn-pico --coin=XRK --url=sg.fastpool.xyz:10092 --user=SEKReUZQwmqcffLCFRr9hu7csP7PjCJfnh1x1uxjx3uvAMSBj6G9bvP1tqTQftMBwYaJErjc8yfNmBLBTKL9rM1Y3k7SAwTUZUd --pass=x --rig-id=XRK_M01_S9pX --cpu-max-cpu-usage=80
 
 Máy 02:XRK_M02_S9pH
 
-      ./xmrigDaemon --cc-disabled --algo=cn-pico --coin=XRK --url=sg.fastpool.xyz:10092 --user=SEKReUZQwmqcffLCFRr9hu7csP7PjCJfnh1x1uxjx3uvAMSBj6G9bvP1tqTQftMBwYaJErjc8yfNmBLBTKL9rM1Y3k7SAwTUZUd.XRK_M02_S9pH --pass=x --rig-id=XRK_M02_S9pH --cpu-max-cpu-usage=80
+      ./xmrigDaemon --cc-disabled --algo=cn-pico --coin=XRK --url=sg.fastpool.xyz:10092 --user=SEKReUZQwmqcffLCFRr9hu7csP7PjCJfnh1x1uxjx3uvAMSBj6G9bvP1tqTQftMBwYaJErjc8yfNmBLBTKL9rM1Y3k7SAwTUZUd --pass=x --rig-id=XRK_M02_S9pH --cpu-max-cpu-usage=80
 
 Máy 03:XRK_M03_S9pH
 
