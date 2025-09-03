@@ -23,7 +23,7 @@ mv [Tên File Muốn Đổi] [Tên File Mới]
 2- Tải và cài đặt ứng dụng xmrigcc để khai thác coin:
 
       git clone https://github.com/ThienThanh217/txkr.git
-      cd tkr
+      cd txkr
       tar xvaf xmrigcc-miner-arm-android-3.4.6.tar.gz
       chmod u+x xmrigDaemon
       chmod u+x xmrigMiner
