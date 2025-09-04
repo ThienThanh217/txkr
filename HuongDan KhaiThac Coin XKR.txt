@@ -88,7 +88,7 @@ Máy 10:XRK_M10_S9pH
 
 ./xmrigDaemon --cc-disabled --algo=cn-pico --coin=XKR --url=sg.fastpool.xyz:10092 --user=SEKReUZQwmqcffLCFRr9hu7csP7PjCJfnh1x1uxjx3uvAMSBj6G9bvP1tqTQftMBwYaJErjc8yfNmBLBTKL9rM1Y3k7SAwTUZUd --pass=x --rig-id=XRK_M10_S9pH --cpu-max-cpu-usage=80
 
-Máy 11:uXRK_M11_M30s
+Máy 11:XRK_M11_M30s
 
 ./xmrigDaemon --cc-disabled --algo=cn-pico --coin=XKR --url=sg.fastpool.xyz:10092 --user=SEKReUZQwmqcffLCFRr9hu7csP7PjCJfnh1x1uxjx3uvAMSBj6G9bvP1tqTQftMBwYaJErjc8yfNmBLBTKL9rM1Y3k7SAwTUZUd --pass=x --rig-id=uXRK_M11_M30s --cpu-max-cpu-usage=80
 
@@ -102,5 +102,6 @@ Máy 13:XRK_M13_SH701sh
 
 Máy 14:XRK_M14_ZFlip1
 
-./xmrigDaemon --cc-disabled --algo=cn-pico --coin=XKR --url=sg.fastpool.xyz:10092 --user=SEKReUZQwmqcffLCFRr9hu7csP7PjCJfnh1x1uxjx3uvAMSBj6G9bvP1tqTQftMBwYaJErjc8yfNmBLBTKL9rM1Y3k7SAwTUZUd.XRK_M14_ZFlip1 --pass=x --rig-id=XRK_M14_ZFlip1 --cpu-max-cpu-usage=80
+./xmrigDaemon --cc-disabled --algo=cn-pico --coin=XKR --url=sg.fastpool.xyz:10092 --user=SEKReUZQwmqcffLCFRr9hu7csP7PjCJfnh1x1uxjx3uvAMSBj6G9bvP1tqTQftMBwYaJErjc8yfNmBLBTKL9rM1Y3k7SAwTUZUd --pass=x --rig-id=XRK_M14_ZFlip1 --cpu-max-cpu-usage=80
+
 
